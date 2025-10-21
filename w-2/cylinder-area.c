@@ -1,6 +1,6 @@
 /* includes*/
 #include <stdio.h>
-#include <stdlib.h> /* contains functions we may need*/
+#include <stdlib.h>
 
 #define PI 3.1415 /*Defining PI as a constant*/
 

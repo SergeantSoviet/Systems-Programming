@@ -1,6 +1,6 @@
 /* includes*/
 #include <stdio.h>
-#include <stdlib.h> /* contains functions we may need*/
+#include <stdlib.h> 
 #include <string.h>
 
 int findMax(int a, int b);

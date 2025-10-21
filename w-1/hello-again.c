@@ -1,6 +1,6 @@
 /* includes */
 #include <stdio.h>
-#include <stdlib.h> /* a header file with a function we might need */
+#include <stdlib.h> 
 
 int main(int argc, char * argv[])
 {

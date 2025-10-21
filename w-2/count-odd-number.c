@@ -1,6 +1,6 @@
 /* includes*/
 #include <stdio.h>
-#include <stdlib.h> /* contains functions we may need*/
+#include <stdlib.h>
 
 
 int main(int argc, char *argv[])
